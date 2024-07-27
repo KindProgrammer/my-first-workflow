@@ -1,0 +1,15 @@
+{
+  "name": "my-first-workflow",
+  "version": "1.0.0",
+  "description": "Пакет для изучения работы Github Actions",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
